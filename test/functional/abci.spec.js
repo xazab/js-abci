@@ -22,7 +22,7 @@ describe('abci', function () {
   before(async () => {
     docker = new Docker();
 
-    dockerImage = 'dashpay/tenderdash';
+    dockerImage = 'xazab/tenderxazab';
   })
 
   beforeEach(async function beforeEach() {

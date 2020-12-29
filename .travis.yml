@@ -11,7 +11,7 @@ services:
 
 install:
   - npm install
-  - docker pull dashpay/tenderdash
+  - docker pull xazab/tenderxazab
 
 script:
   - npm run lint && npm test

@@ -1,7 +1,7 @@
 {
-  "name": "@dashevo/abci",
+  "name": "@xazab/abci",
   "version": "0.17.0-dev.3",
-  "description": "Tenderdash ABCI server",
+  "description": "Tenderxazab ABCI server",
   "main": "index.js",
   "scripts": {
     "lint": "standard src/*.js test/*.js",
